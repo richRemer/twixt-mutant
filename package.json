@@ -1,6 +1,6 @@
 {
   "name": "twixt-mutant",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Proxy wrapper to trigger mutation events",
   "main": "mutant.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/richRemer/twixt-mutant#readme",
   "dependencies": {
-    "twixt-event-target": "0.0.2",
-    "twixt-mutation-event": "0.0.1"
+    "twixt-event-target": "*",
+    "twixt-mutation-event": "*"
   }
 }
